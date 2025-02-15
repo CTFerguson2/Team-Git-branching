@@ -1,0 +1,1 @@
+hot take: c++ should have a convenient method for getting the length of an array
